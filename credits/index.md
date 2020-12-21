@@ -7,7 +7,7 @@ The technical details about this site.
 
 # Static Site Generator
 
-THe website is built on top of [Jekyll](https://jekyllrb.com). I modified the [tufte-jekyll](https://github.com/clayh53/tufte-jekyll) theme inspired by [Edward Tufte](https://edwardtufte.github.io).
+The website is built on top of [Jekyll](https://jekyllrb.com). I modified the [tufte-jekyll](https://github.com/clayh53/tufte-jekyll) theme inspired by [Edward Tufte](https://edwardtufte.github.io).
 
 This site is written in [valid HTML](https://html5.validator.nu/?doc=https%3A%2F%2Fjjiang.me).
 
