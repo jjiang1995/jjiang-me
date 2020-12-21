@@ -3,82 +3,11 @@
   <channel>
     <title>Jianan Jiang's blog</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2020 15:25:32 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2020 15:25:32 -0500</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
-    
-      <item>
-        <title>From *Marbury v. Madison*, the political wisdom of the Supreme Court</title>
-        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Since its inception, United States Supreme Court has always been regarded as the stoic third branch of the federal government, wielding its sword at the sole discretion of &lt;em&gt;Justitia&lt;/em&gt;. After being confirmed by the Senate, Justices ascent the marble steps of the legal Pantheon and foreverly parted with political sophistry. But is that so? If we look at the history of the Court, it is not hard to find that the Court, as an institution, has been dragged into the most heated political disputes and always come out as the victor. It is difficult to imagine an unwilling player would manage to achieve this outcome. Is there an instituonalized political agenda embedded in those marble stones? Let’s go back to &lt;em&gt;Marbury v. Madison&lt;/em&gt;.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h1 id=&quot;marbury-v-madison-the-brilliant-power-grab&quot;&gt;&lt;em&gt;Marbury v. Madison&lt;/em&gt;, the brilliant power-grab&lt;/h1&gt;
-
-</description>
-        <pubDate>Mon, 21 Dec 2020 14:57:10 -0500</pubDate>
-        <link>http://localhost:4000/articles/20/political-widom-of-the-supreme-court</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/20/political-widom-of-the-supreme-court</guid>
-        
-        
-        <category>psot</category>
-        
-      </item>
-    
-      <item>
-        <title>page</title>
-        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;In this first iteration&lt;/span&gt;  of the &lt;em&gt;Tufte-Jekyll&lt;/em&gt; theme, a post and a page have exactly the same layout. That means that all the typographic and structural details are identical between the two.&lt;/p&gt;
-
-&lt;h2 id=&quot;pages-and-posts&quot;&gt;Pages and Posts&lt;/h2&gt;
-
-&lt;p&gt;Jekyll provides for both pages and posts in its default configuration. I have left this as-is.&lt;/p&gt;
-
-&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
-
-&lt;p&gt;Conceptually, posts are for recurring pieces of similar content such as might be found in a typical blog entry. Post content all sits in a folder named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; and files are created in this folder&lt;label for=&quot;1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Yes, a page has essentially the same old shit as a post &lt;/span&gt; that are names with a date pre-pended to the title of the post. For instance &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2105-02-20-this-is-a-post.md&lt;/code&gt; is a perfectly valid post filename.&lt;/p&gt;
-
-&lt;p&gt;Posts will always have a section above the content itself consisting of YAML front matter, which is meta-data information about the post. Minimally, a post title must always be present for it to be processed properly.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
-Title: Some Title
----
-## Content
-
-Markdown formatted content *here*.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;pages&quot;&gt;Pages&lt;/h3&gt;
-
-&lt;p&gt;Pages are any HTML documents &lt;em&gt;or&lt;/em&gt; Markdown documents with YAML front matter that are then converted to content. Page material is more suited to static, non-recurring types of content. Like this&lt;/p&gt;
-
-&lt;p&gt;I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Dec 2020 14:57:10 -0500</pubDate>
-        <link>http://localhost:4000/articles/20/index</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/20/index</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>About</title>
-        <description>&lt;p&gt;The &lt;em&gt;Tufte-Jekyll&lt;/em&gt; theme is a natural extension of the work done by &lt;a href=&quot;https://github.com/edwardtufte/tufte-css&quot;&gt;Edward Tufte&lt;/a&gt; and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.&lt;/p&gt;
-
-&lt;p&gt;To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.&lt;/p&gt;
-
-&lt;p&gt;Note that this is a full-width layout. This was accomplished by including &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout: full-width&lt;/code&gt; in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts!&lt;/p&gt;
-
-&lt;p&gt;You can find the source code for Jekyll at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;github.com/jekyll/jekyll&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Dec 2020 14:57:10 -0500</pubDate>
-        <link>http://localhost:4000/articles/20/index</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/20/index</guid>
-        
-        
-      </item>
+    <link>https://jjiang.me/</link>
+    <atom:link href="https://jjiang.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Dec 2020 15:41:49 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2020 15:41:49 -0500</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>中文传统书信</title>
@@ -247,8 +176,8 @@ Markdown formatted content *here*.
 &lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/easter-egg2.png&quot; alt=&quot;洪秀柱的回信&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;洪秀柱的回信&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Mon, 13 Apr 2020 13:04:01 -0400</pubDate>
-        <link>http://localhost:4000/articles/20/chinese-letter</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/20/chinese-letter</guid>
+        <link>https://jjiang.me/articles/20/chinese-letter</link>
+        <guid isPermaLink="true">https://jjiang.me/articles/20/chinese-letter</guid>
         
         
         <category>post</category>
