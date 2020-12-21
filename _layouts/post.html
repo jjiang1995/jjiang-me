@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1>{{ page.title | markdownify | remove: '<p>' | remove: '</p>'}}</h1>
+<p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+
+{{ content }}
+
+

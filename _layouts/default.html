@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    {% if page.lang %}
+      <article class="group" lang="{{page.lang}}">
+    {% else %}
+      <article class="group">
+    {% endif %}
+      {{ content }}
+    </article>
+    {% include print-footer.html %}
+    {% include footer.html %}
+  </body>
+</html>

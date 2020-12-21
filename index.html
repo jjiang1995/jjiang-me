@@ -1,0 +1,35 @@
+---
+layout: full-width
+title: blog
+# Note that this index page uses a full-width layout!
+---
+
+  <h1 class="content-listing-header sans">Articles</h1>
+  <ul class="content-listing ">
+    {% for post in site.posts %}
+        {% if post.lang %}
+        <li class="listing" lang="{{post.lang}}">
+        {% else %}
+        <li class="listing">
+        {% endif %}      
+        
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="tufte-underline"><h3 class="contrast">{{ post.title | markdownify | remove: '<p>' | remove: '</p>'}}</h3></a>
+          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+          <div>
+            {% if post.lang == "zh-Hans-CN" %}
+            {% assign excerpt = post.excerpt | strip_html | truncatewords:2, "" %}
+            {% assign excerpt_last_char = excerpt | split: '' | last %}
+            {% assign excerpt_size = excerpt | size %}
+            {% if excerpt_last_char == '。' %}
+            {% assign excerpt_size = excerpt_size | minus:1 %}
+            {% assign excerpt = excerpt | slice: 0, excerpt_size %}
+            {% endif %}
+            {{ excerpt | append: '……'}}
+            {% else %}
+            {{ post.excerpt | strip_html | truncatewords:80 }}
+            {% endif %}
+          </div> 
+        </li>
+    {% endfor %}
+  </ul>
