@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2020 10:00:47 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2020 10:00:47 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2020 14:54:06 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2020 14:54:06 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -17,7 +17,7 @@
 &lt;h1 id=&quot;marbury-v-madison-the-brilliant-power-grab&quot;&gt;&lt;em&gt;Marbury v. Madison&lt;/em&gt;, the brilliant power-grab&lt;/h1&gt;
 
 </description>
-        <pubDate>Mon, 21 Dec 2020 09:13:01 -0500</pubDate>
+        <pubDate>Mon, 21 Dec 2020 14:41:54 -0500</pubDate>
         <link>http://localhost:4000/articles/20/political-widom-of-the-supreme-court</link>
         <guid isPermaLink="true">http://localhost:4000/articles/20/political-widom-of-the-supreme-court</guid>
         
@@ -55,7 +55,7 @@ Markdown formatted content *here*.
 &lt;p&gt;I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 07 Sep 2020 11:28:30 -0400</pubDate>
+        <pubDate>Mon, 21 Dec 2020 14:41:54 -0500</pubDate>
         <link>http://localhost:4000/articles/20/index</link>
         <guid isPermaLink="true">http://localhost:4000/articles/20/index</guid>
         
@@ -73,7 +73,7 @@ Markdown formatted content *here*.
 &lt;p&gt;You can find the source code for Jekyll at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;github.com/jekyll/jekyll&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 07 Sep 2020 11:28:30 -0400</pubDate>
+        <pubDate>Mon, 21 Dec 2020 14:41:54 -0500</pubDate>
         <link>http://localhost:4000/articles/20/index</link>
         <guid isPermaLink="true">http://localhost:4000/articles/20/index</guid>
         
@@ -134,7 +134,7 @@ Markdown formatted content *here*.
 &lt;h4 id=&quot;耑此&quot;&gt;耑此&lt;/h4&gt;
 &lt;p&gt;「专/耑」是专诚、特意的意思，「专此/耑此」意指我特意为了这件事情写信给您，是文言书信常用的信末收结语；有时候可以在后面再加上一些动词，如「耑此奉复」是特意写这封信给您回复，「耑此布达」是特意写这封信陈述表达我的意思。&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/zhuanci.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;马英九胜选后给台湾中华国际文化艺术交流协会理事长赵善灿先生的感谢信。&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/zhuanci.png&quot; alt=&quot;马英九胜选后给台湾中华国际文化艺术交流协会理事长赵善灿先生的感谢信。&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;马英九胜选后给台湾中华国际文化艺术交流协会理事长赵善灿先生的感谢信。&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;自称署名礼告敬语及时间&quot;&gt;自称、署名、礼告敬语及时间&lt;/h4&gt;
 &lt;p&gt;笺文结尾要写上发信人的名字和写信的时间。需要注意的是，应在名字之前加上相应的自称、名字之后要选用适当的礼告敬语。&lt;/p&gt;
@@ -225,26 +225,26 @@ Markdown formatted content *here*.
 &lt;h3 id=&quot;格式范本&quot;&gt;格式范本&lt;/h3&gt;
 &lt;h4 id=&quot;私函&quot;&gt;私函&lt;/h4&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/private-letter.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;私函较为随意，取自&lt;a href=&quot;https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary-secondary/lang/3%20shuxin.pdf&quot;&gt;《书信》&lt;/a&gt;，香港教育局。&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/private-letter.png&quot; alt=&quot;私函较为随意，取自[《书信》](https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary-secondary/lang/3%20shuxin.pdf)，香港教育局。&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;私函较为随意，取自&lt;a href=&quot;https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary-secondary/lang/3%20shuxin.pdf&quot;&gt;《书信》&lt;/a&gt;，香港教育局。&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;公函&quot;&gt;公函&lt;/h4&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/public-letter1.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;公函更为正式，&lt;a href=&quot;https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary-secondary/lang/3%20shuxin.pdf&quot;&gt;同上&lt;/a&gt;。&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/public-letter2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/public-letter1.png&quot; alt=&quot;公函更为正式，[同上](https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary-secondary/lang/3%20shuxin.pdf)。&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;公函更为正式，&lt;a href=&quot;https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary-secondary/lang/3%20shuxin.pdf&quot;&gt;同上&lt;/a&gt;。&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/public-letter2.png&quot; alt=&quot;&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h1 id=&quot;样例&quot;&gt;样例&lt;/h1&gt;
 &lt;h2 id=&quot;公函-1&quot;&gt;公函&lt;/h2&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/images/chinese-letter/public-letter3.png&quot; /&gt;&lt;figcaption&gt;校园布告&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/images/chinese-letter/public-letter3.png&quot; alt=&quot;校园布告&quot; /&gt;&lt;figcaption&gt;校园布告&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;求职信&quot;&gt;求职信&lt;/h2&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/images/chinese-letter/cover-letter.png&quot; /&gt;&lt;figcaption&gt;求职信&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/images/chinese-letter/cover-letter.png&quot; alt=&quot;求职信&quot; /&gt;&lt;figcaption&gt;求职信&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;彩蛋&quot;&gt;🥚彩蛋&lt;/h2&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/easter-egg1.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;习近平主席祝贺洪秀柱女士当选国民党主席，可见在最正式的沟通中大陆也依然采用传统信笺格式。&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/easter-egg2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;洪秀柱的回信&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/easter-egg1.png&quot; alt=&quot;习近平主席祝贺洪秀柱女士当选国民党主席，可见在最正式的沟通中大陆也依然采用传统信笺格式。&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;习近平主席祝贺洪秀柱女士当选国民党主席，可见在最正式的沟通中大陆也依然采用传统信笺格式。&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/assets/images/chinese-letter/easter-egg2.png&quot; alt=&quot;洪秀柱的回信&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;洪秀柱的回信&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Mon, 13 Apr 2020 13:04:01 -0400</pubDate>
         <link>http://localhost:4000/articles/20/chinese-letter</link>

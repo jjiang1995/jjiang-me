@@ -24,10 +24,10 @@ module Jekyll
       label = converter.convert(label).gsub(/<\/?p[^>]*>/, "").chomp # remove <p> tags from render output
 
       if @text[0].start_with?('http://', 'https://','//')
-        "<figure class='fullwidth'><img src='#{@text[0]}'/>"+
+        "<figure class='fullwidth'><img src='#{@text[0]}' alt='#{@text[1]}'/>"+
         "<figcaption>#{label}</figcaption></figure>"
       else
-        "<figure class='fullwidth'><img src='#{baseurl}/#{@text[0]}'/>"+
+        "<figure class='fullwidth'><img src='#{baseurl}/#{@text[0]}' alt='#{@text[1]}'/>"+
         "<figcaption>#{label}</figcaption></figure>"
       end
     end
