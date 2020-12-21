@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full-width
 title: Privacy Policy
 permalink: /policy
 nav_exclude: true

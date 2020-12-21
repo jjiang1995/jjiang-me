@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2020 14:54:06 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2020 14:54:06 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Dec 2020 15:25:32 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2020 15:25:32 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -17,7 +17,7 @@
 &lt;h1 id=&quot;marbury-v-madison-the-brilliant-power-grab&quot;&gt;&lt;em&gt;Marbury v. Madison&lt;/em&gt;, the brilliant power-grab&lt;/h1&gt;
 
 </description>
-        <pubDate>Mon, 21 Dec 2020 14:41:54 -0500</pubDate>
+        <pubDate>Mon, 21 Dec 2020 14:57:10 -0500</pubDate>
         <link>http://localhost:4000/articles/20/political-widom-of-the-supreme-court</link>
         <guid isPermaLink="true">http://localhost:4000/articles/20/political-widom-of-the-supreme-court</guid>
         
@@ -55,7 +55,7 @@ Markdown formatted content *here*.
 &lt;p&gt;I am not going to re-write the Jekyll documentation. Read it and you will figure out how the site is structured.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 21 Dec 2020 14:41:54 -0500</pubDate>
+        <pubDate>Mon, 21 Dec 2020 14:57:10 -0500</pubDate>
         <link>http://localhost:4000/articles/20/index</link>
         <guid isPermaLink="true">http://localhost:4000/articles/20/index</guid>
         
@@ -73,7 +73,7 @@ Markdown formatted content *here*.
 &lt;p&gt;You can find the source code for Jekyll at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;github.com/jekyll/jekyll&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 21 Dec 2020 14:41:54 -0500</pubDate>
+        <pubDate>Mon, 21 Dec 2020 14:57:10 -0500</pubDate>
         <link>http://localhost:4000/articles/20/index</link>
         <guid isPermaLink="true">http://localhost:4000/articles/20/index</guid>
         
