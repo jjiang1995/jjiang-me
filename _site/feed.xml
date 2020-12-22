@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jianan Jiang's blog</title>
-    <description></description>
+    <description>Jianan Jiang's personal blog</description>
     <link>https://jjiang.me/</link>
     <atom:link href="https://jjiang.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Dec 2020 15:41:49 -0500</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2020 15:41:49 -0500</lastBuildDate>
+    <pubDate>Tue, 22 Dec 2020 14:54:16 -0500</pubDate>
+    <lastBuildDate>Tue, 22 Dec 2020 14:54:16 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>

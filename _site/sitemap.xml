@@ -23,7 +23,7 @@
     <url>
       <loc>https://jjiang.me/</loc>
       
-        <lastmod>2020-12-21T15:41:49-05:00</lastmod>
+        <lastmod>2020-12-22T14:54:16-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -38,7 +38,7 @@
     <url>
       <loc>https://jjiang.me/credits/</loc>
       
-        <lastmod>2020-12-21T15:41:49-05:00</lastmod>
+        <lastmod>2020-12-22T14:54:16-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -53,7 +53,7 @@
     <url>
       <loc>https://jjiang.me/policy</loc>
       
-        <lastmod>2020-12-21T15:41:49-05:00</lastmod>
+        <lastmod>2020-12-22T14:54:16-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -62,5 +62,53 @@
         <priority>0.3</priority>
       
     </url>
+    
+  
+    
+    <url>
+      <loc>https://jjiang.me/css/print.css</loc>
+      
+        <lastmod>2020-12-22T14:54:16-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>https://jjiang.me/css/tufte.css</loc>
+      
+        <lastmod>2020-12-22T14:54:16-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://jjiang.me/css/print.css.map</loc>
+      
+        <lastmod>2020-12-22T14:54:16-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
   
 </urlset>
